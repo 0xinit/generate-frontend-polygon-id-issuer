@@ -1,0 +1,3 @@
+[submodule "generate-frontend-polygon-id-issuer"]
+	path = generate-frontend-polygon-id-issuer
+	url = https://github.com/0xinit/generate-frontend-polygon-id-issuer.git
